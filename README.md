@@ -7,12 +7,12 @@ Minesweeper made by Savitar1648
 - Randomly generated minefield
 - Victory and defeat detection
 - GUI built with Tkinter
+- Built-in timer
 
 **How to Play**
 
-1. Clone the repository.
-2. Run the `minesweeper.py` file.
+Just run the .exe program in the release section
 
-**Installation**
+**Installation (only for older version, OUTDATED!)**
 
-To play Minesweeper, you'll need to have Python installed on your computer.
+To play Minesweeper 1.0.0, you'll need to have Python installed on your computer.
