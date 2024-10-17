@@ -10,8 +10,7 @@ Minesweeper made by Savitar1648
 - Built-in timer
 
 **How to Play**
-
-Just run the .exe program in the release section
+Download the .zip file and execute "Minesweeper.exe"
 
 **Installation (only for older version, OUTDATED!)**
 
